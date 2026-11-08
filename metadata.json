@@ -1,0 +1,6 @@
+{
+  "name": "PAPAN PRESTASI SURABAYA – LAPORAN MONEV POPDA-PEPAPERDA 2026",
+  "description": "Sistem Monitoring Evaluasi Harian, Perolehan Medali 30 Cabor, dan Identifikasi Atlet Potensial Kontingen Kota Surabaya menuju PORPROV Jawa Timur 2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
